@@ -1,0 +1,32 @@
+{
+    "company":
+    [
+        {
+          "id": 1,
+          "name": "linh",
+          "email": "test1 @ca.ca",
+          "password": "1234",
+          "phone": "0123456789",
+          "bod": "06/10/2003",
+          "address": "Hồ Chí Minh"
+        },
+        {
+          "id": 2,
+          "name": "phuc",
+          "email": "test2@ca.ca",
+          "password": "1234",
+          "phone": "0123456789",
+          "bod": "06/10/2004",
+          "address": "Hà Nội"
+        },
+        {
+          "id": 3,
+          "name": "thich",
+          "email": "test3@ca.ca",
+          "password": "1234",
+          "phone": "0123456789",
+          "bod": "06/10/2005",
+          "address": "Hà Nội"
+        }
+      ]
+}
